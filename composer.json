@@ -1,0 +1,21 @@
+{
+  "name": "oneshoppingcart/OneShopApi",
+  "description": "1ShoppingCart PHP Library",
+  "keywords": [
+    "1shoppingcart",
+    "payment processing",
+	"shopping cart",
+    "api"
+  ],
+  "homepage": "http://api.1shoppingcart.com/",  
+  "authors": [
+    {
+      "name": "1ShoppingCart",
+      "homepage": "http://api.1shoppingcart.com/"
+    }
+  ],
+  "require": {
+    "php": ">=5.2",
+    "ext-curl": "*"
+  }
+}
